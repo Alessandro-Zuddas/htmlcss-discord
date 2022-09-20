@@ -367,14 +367,16 @@ li .footer-nav-list{
     text-decoration: none;
 }
 
+hr{
+    border: 1px solid #4f5d8c;
+}
 
-/* .logo-footer{
-    background-color: #ffb6c1;
-    border: 1px dashed black;
-} */
+.logo-footer{
+    margin-bottom: 25px;
+} 
 
-/* .bottone-footer{
-    background-color: #ffb6c1;
-    border: 1px dashed black;
-} */
+.bottone-footer{
+    color: white;
+    background-color: #7289da;
+}
 
