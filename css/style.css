@@ -228,6 +228,22 @@ header{
     width: 40%;
 }
 
+.main-image{
+    padding-right: 50px;
+}
+
+.section-title{
+    padding-left: 100px;
+    padding-top: 35px;
+    font-size: 40px;
+}
+
+.section-paragraph{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
 .row-end-main{
     display: flex;
     padding: 25px 0;
@@ -238,9 +254,9 @@ header{
     width: 100%;
 }
 
-section:nth-child(2n){
-    background-color: #d3d3d3;
-}
+/* section::after{
+    background-image: url(../img/wave.svg)  DA VEDERE DOPO
+} */
 
 /* FOOTER */
 
