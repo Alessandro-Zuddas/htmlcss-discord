@@ -111,6 +111,10 @@ ul{
     list-style: none;
 }
 
+.waves{
+    background-image: url(../img/wave\ \(2\).svg);
+}
+
 
 /* BUTTONS */
 
