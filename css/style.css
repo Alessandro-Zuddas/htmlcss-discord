@@ -130,6 +130,15 @@
     background-color: #23272a;
 }
 
+.download-btn-end{
+    margin-left: 425px;
+    margin-top: 25px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    color: white;
+    background-color: #7289da;
+}
+
 /* HEADER */
 
 header{
@@ -252,6 +261,24 @@ header{
 
 .col-end-main{
     width: 100%;
+}
+
+.end-main-title{
+    text-align: center;
+    font-size: 40px;
+}
+
+.end-main-paragraph{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.end-main-img{
+    align-self: center;
+}
+
+.last-title{
+    text-align: center;
 }
 
 /* section::after{
