@@ -111,6 +111,7 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    cursor: pointer;
 }
 
 .login-btn{
@@ -279,7 +280,12 @@ header{
 
 .last-title{
     text-align: center;
+    background-image: url(../img/stars.svg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 
 /* section::after{
     background-image: url(../img/wave.svg)  DA VEDERE DOPO
