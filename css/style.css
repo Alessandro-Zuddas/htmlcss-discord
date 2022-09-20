@@ -111,6 +111,7 @@ ul{
     list-style: none;
 }
 
+
 /* BUTTONS */
 
 .btn{
@@ -295,10 +296,6 @@ header{
     background-position: center;
 }
 
-
-/* section::after{
-    background-image: url(../img/wave.svg)  DA VEDERE DOPO
-} */
 
 /* FOOTER */
 
