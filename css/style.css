@@ -196,9 +196,9 @@ section:nth-child(2n){
 
 /* FOOTER */
 
-footer{
-    /* background-color: #23272a; */
-}
+/* footer{
+    background-color: #23272a;
+} */
 
 .row-footer-top{
     display: flex;
