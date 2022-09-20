@@ -102,10 +102,21 @@
     margin: auto;
 }
 
+/* BUTTONS */
+
+.btn{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 25%;
+    padding: 5px;
+}
+
 /* HEADER */
 
 header{
     padding: 15px 0;
+    background-color: #255ee9;
 }
 
 .header-top{
@@ -119,6 +130,7 @@ header{
     list-style: none;
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 .navigation ul li{
@@ -128,6 +140,7 @@ header{
 .navigation ul li a{
     text-decoration: none;
     color: inherit;
+    padding: 0 10px;
 }
 
 .logo{
