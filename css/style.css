@@ -254,18 +254,18 @@ header{
 }
 
 .main-image{
-    padding-right: 50px;
+    padding-right: 30px;
     width: 100%;
 }
 
 .section-title{
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 35px;
     font-size: 40px;
 }
 
 .section-paragraph{
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 20px;
     font-size: 20px;
 }
