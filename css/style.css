@@ -120,7 +120,7 @@ ul{
 
 .btn{
     border: none;
-    border-radius: 20px;
+    border-radius: 40px;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -206,8 +206,9 @@ header{
 /* PREVIEW SECTION */
 
 .preview{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    min-height: 500px;
     background-image: url(../img/jumbo.png);
     background-size: cover;
     background-position: center;
