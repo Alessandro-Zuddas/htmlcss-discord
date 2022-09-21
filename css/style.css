@@ -255,16 +255,17 @@ header{
 
 .main-image{
     padding-right: 50px;
+    width: 100%;
 }
 
 .section-title{
-    padding-left: 100px;
+    padding-left: 50px;
     padding-top: 35px;
     font-size: 40px;
 }
 
 .section-paragraph{
-    padding-left: 100px;
+    padding-left: 50px;
     padding-top: 20px;
     font-size: 20px;
 }
